@@ -18,8 +18,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![image](https://github.com/mdathif12/Muttiple-capacity-with-infinite-capacity/assets/149365313/56195c3c-fb72-4363-bdd5-37d185cdb31f)
-![image](https://github.com/mdathif12/Muttiple-capacity-with-infinite-capacity/assets/149365313/fce8804a-152a-4f1f-89fc-18f8297a96b2)
+![image](https://github.com/mdathif12/Muttiple-capacity-with-infinite-capacity/assets/149365313/bf687e6e-9703-43e1-b2e7-59c038f03921)
+
+![image](https://github.com/mdathif12/Muttiple-capacity-with-infinite-capacity/assets/149365313/92091e6f-0141-40d1-bd49-7625e924132d)
 
 
 ## Program
